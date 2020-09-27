@@ -24,3 +24,6 @@ Note:It is best practice to deploy release branch in staging server QA testing.
 11.If there are any minor issues with production ready code it will be solved by creating a hotfix branch.
 12.Created a hotfix branch from master and added some code and merged with both master and develop branches.
 13.For the next release new feature branch will be created from develop branch as develop branch is in sync with master branch.
+
+In this workflow case study I have cretaed 3 milestones 25th of OCt,Nov and Dec respectively and single tag with "v1.0".
+
